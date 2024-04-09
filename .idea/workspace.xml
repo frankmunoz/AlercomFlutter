@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3597dd88-77a3-4268-b6c6-f16e0c6fa0a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1uGLYMqrWxleYsHpnrWrgZA44nt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3597dd88-77a3-4268-b6c6-f16e0c6fa0a8" name="Default Changelist" comment="" />
+      <created>1624287058512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624287058512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="162" width="1490" height="754" key="AVDManager" timestamp="1624287869637">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="134" y="162" width="1490" height="754" key="AVDManager/0.0.1920.1200@0.0.1920.1200" timestamp="1624287869637" />
+    <state x="397" y="221" width="964" height="645" key="new project wizard" timestamp="1624293514788">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="397" y="221" width="964" height="645" key="new project wizard/0.0.1920.1200@0.0.1920.1200" timestamp="1624293514788" />
+  </component>
+</project>

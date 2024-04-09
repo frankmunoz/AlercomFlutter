@@ -1,0 +1,30 @@
+{
+    "nombreApp" : "Alercom",
+    "rutas" : [
+        {
+            "ruta" : "migration",
+            "icon" : "migration",
+            "texto": "Migración"
+        },
+        {
+            "ruta" : "vbg",
+            "icon" : "vbg",
+            "texto": "VBG"
+        },
+        {
+            "ruta" : "victims",
+            "icon" : "victims",
+            "texto": "Victimas ley 1448"
+        },
+        {
+            "ruta" : "child",
+            "icon" : "child",
+            "texto": "Niñez y adolescencia "
+        },
+        {
+            "ruta" : "mind_health",
+            "icon" : "mind_health",
+            "texto": "Salud mental"
+        }
+    ]
+}
